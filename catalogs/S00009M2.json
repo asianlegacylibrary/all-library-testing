@@ -1,0 +1,47 @@
+{
+    "name": "S00009M2_BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN RTZA 'GREL GYI SPYI DON RNAM BSHAD SNYING PO RGYAN GYI SNANG BA PHAR PHYIN SPYI DON, CHA GNYIS PA_'An Illumination of the 'Jewel of the Essence of Good Explanation',' being an Overview of the Root Text +.TXT",
+    "path": "tsig don_commentary on the wording",
+    "download_path": "/mkhas grub bstan pa dar rgyas_kedrup tenpa dargye (1493-1568)/tsig don_commentary on the wording/s00009m2_bstan bcos mngon par rtogs pa'i rgyan rtza 'grel gyi spyi don rnam bshad snying po rgyan gyi snang ba phar phyin spyi don, cha gnyis pa_'an illumination of the 'jewel of the essence of good explanation',' being an overview of the root text +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAXuA",
+    "revision_id": "61e149e6cfc488d294473",
+    "content_hash": "6d9d6100a077f010ac99c626765526652d49ed59630218c0a171ec7460fd9532",
+    "server_modified": "2024-07-25T16:09:26",
+    "last_uploaded": "2024-08-14T13:11:18.584476",
+    "size": 142414,
+    "meta_text": "and Commentary to the Classical Commentary Known as ‘The Ornament of Realizations’, Part Two_MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)",
+    "cat_ref": "S00009M2",
+    "title_tib": "BSTAN BCOS MNGON PAR RTOGS PA'I RGYAN RTZA 'GREL GYI SPYI DON RNAM BSHAD SNYING PO RGYAN GYI SNANG BA PHAR PHYIN SPYI DON, CHA GNYIS PA",
+    "title_eng": "'An Illumination of the 'Jewel of the Essence of Good Explanation',' being an Overview of the Root Textand Commentary to the Classical Commentary Known as ‘The Ornament of Realizations’, Part Two",
+    "author": [
+        "MKHAS GRUB BSTAN PA DAR RGYAS (1493-1568)"
+    ],
+    "subject": [
+        {
+            "_id": "328292309018",
+            "path": "tsig don_commentary on the wording",
+            "path_tibetan": "tsig don",
+            "path_english": "commentary on the wording",
+            "subject_tibetan": "tsig don",
+            "subject_english": "commentary on the wording"
+        },
+        {
+            "_id": "208391367149",
+            "path": "spyi don_overview",
+            "path_tibetan": "spyi don",
+            "path_english": "overview",
+            "subject_tibetan": "spyi don",
+            "subject_english": "overview"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "tsig don_commentary on the wording",
+            "timestamp": "2024-08-14T20:11:18.587544+00:00"
+        },
+        {
+            "path": "spyi don_overview",
+            "timestamp": "2024-08-14T20:11:20.653668+00:00"
+        }
+    ]
+}
