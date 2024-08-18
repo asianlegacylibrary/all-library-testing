@@ -1,0 +1,48 @@
+{
+    "name": "S05440_MNGON PAR RTOGS PA BRGYAD DON BDUN CU DANG BCAS PA'I 'GREL PA NYAMS SU LEN TSUL MDO TZAM DANG BCAS PA_W29194_05CA_5440.txt",
+    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/rgyal tsab rje dar ma rin chen (1364-1432)",
+    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/rgyal tsab rje dar ma rin chen (1364-1432)/s05440_mngon par rtogs pa brgyad don bdun cu dang bcas pa'i 'grel pa nyams su len tsul mdo tzam dang bcas pa_w29194_05ca_5440.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAVUQ",
+    "revision_id": "613f6668766b78d294473",
+    "content_hash": "15f924c3e9df4366259a1779e7ac3b3d08d0e3ed85d49665f2d6567f3e949fa4",
+    "server_modified": "2024-03-18T21:54:23",
+    "last_sync": "2024-08-18T13:42:29.350447",
+    "size": 66960,
+    "meta_text": null,
+    "cat_ref": "S05440",
+    "work_ref": "W.S05440",
+    "title_tib": "W29194",
+    "title_eng": "",
+    "author": [
+        "05CA"
+    ],
+    "subject": [
+        {
+            "_id": "786955959455",
+            "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/SPYI_GENERAL COMMENTARIES/RGYAL TSAB RJE DAR MA RIN CHEN (1364-1432)",
+            "path_tibetan": "PHAR PHYIN/SPYI/RGYAL TSAB RJE DAR MA RIN CHEN (1364-1432)",
+            "path_english": "PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/GENERAL COMMENTARIES",
+            "subject_tibetan": "RGYAL TSAB RJE DAR MA RIN CHEN (1364-1432)",
+            "subject_english": "GENERAL COMMENTARIES"
+        },
+        {
+            "_id": "242808414144",
+            "path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/DON BDUN CU_THE 70 TOPICS",
+            "path_tibetan": "PHAR PHYIN/DON BDUN CU",
+            "path_english": "PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/THE 70 TOPICS",
+            "subject_tibetan": "DON BDUN CU",
+            "subject_english": "THE 70 TOPICS"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/spyi_general commentaries/rgyal tsab rje dar ma rin chen (1364-1432)",
+            "timestamp": "2024-08-18T20:42:29.351626+00:00"
+        },
+        {
+            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/don bdun cu_the 70 topics",
+            "timestamp": "2024-08-18T20:42:56.339569+00:00"
+        }
+    ]
+}
