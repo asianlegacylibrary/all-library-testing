@@ -1,0 +1,43 @@
+{
+    "name": "S25101_'DUL BA RGYA MTSO'I SNYING PO BSDUS PA'I TSIG 'GREL RIN CHEN PHRENG BA.txt",
+    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal mkhan po grags pa rgyal mtsan",
+    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal mkhan po grags pa rgyal mtsan/s25101_'dul ba rgya mtso'i snying po bsdus pa'i tsig 'grel rin chen phreng ba.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAADEg",
+    "revision_id": "613f663ffc8058d294473",
+    "content_hash": "ff30bf41a80f01e4e1b8c80c4a70342c1ec7d4caf7a9ef22e6b381f09675e12f",
+    "server_modified": "2024-03-18T21:53:40",
+    "last_sync": "2024-08-20T11:34:28.593946",
+    "size": 129903,
+    "meta_text": null,
+    "cat_ref": "S25101",
+    "work_ref": "W.S25101",
+    "title_tib": "'DUL BA RGYA MTSO'I SNYING PO BSDUS PA'I TSIG 'GREL RIN CHEN PHRENG BA",
+    "title_eng": "",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "",
+    "subject": [
+        {
+            "_id": "149771180788",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
+            "subject_path_tibetan": "'DUL BA/SPYI/RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS",
+            "subject_tibetan": "RGYAL MKHAN PO GRAGS PA RGYAL MTSAN",
+            "subject_english": "GENERAL PRESENTATIONS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": ""
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/rgyal mkhan po grags pa rgyal mtsan",
+            "timestamp": "2024-08-20T18:34:28.595088+00:00"
+        }
+    ]
+}

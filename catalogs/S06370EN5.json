@@ -1,0 +1,67 @@
+{
+    "name": "S06370EN5_CHOS 'BYUNG DANG GZHAL YAS KHANG SKYED BYED KYI RDOR SEMS DANG RNAM SNANG GI PHYAG BRGYA'I SKOR_Note on the Star and Palace in the Practice of the Warrior of Diamond (Vajrasattva) and the Angel of Appearances (Vairochana)_DNGUL CHU DHARMA +.TXT",
+    "path": "rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/phyag rgya_spiritual gestures and partners (mudra)",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/phyag rgya_spiritual gestures and partners (mudra)/s06370en5_chos 'byung dang gzhal yas khang skyed byed kyi rdor sems dang rnam snang gi phyag brgya'i skor_note on the star and palace in the practice of the warrior of diamond (vajrasattva) and the angel of appearances (vairochana)_dngul chu dharma +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAJtA",
+    "revision_id": "613f664dc43d08d294473",
+    "content_hash": "ab028542982121b5e5aef4c307309b05a1446e583a71685fb9a24360fdb12c1a",
+    "server_modified": "2024-03-18T21:53:55",
+    "last_sync": "2024-08-20T11:41:45.428765",
+    "size": 371,
+    "meta_text": "BHADRA (1772-1851)",
+    "cat_ref": "S06370EN5",
+    "work_ref": "W.S06370EN5",
+    "title_tib": "CHOS 'BYUNG DANG GZHAL YAS KHANG SKYED BYED KYI RDOR SEMS DANG RNAM SNANG GI PHYAG BRGYA'I SKOR",
+    "title_eng": "Note on the Star and Palace in the Practice of the Warrior of Diamond (Vajrasattva) and the Angel of Appearances (Vairochana)",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMABHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "268399891580",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/RNAM PAR SNANG MDZAD_APPEARANCES (VAIROCHANA)/PHYAG RGYA_SPIRITUAL GESTURES AND PARTNERS (MUDRA)",
+            "subject_path_tibetan": "RGYUD/RNAM PAR SNANG MDZAD/PHYAG RGYA",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/APPEARANCES (VAIROCHANA)/SPIRITUAL GESTURES AND PARTNERS (MUDRA)",
+            "subject_tibetan": "PHYAG RGYA",
+            "subject_english": "SPIRITUAL GESTURES AND PARTNERS (MUDRA)"
+        },
+        {
+            "_id": "189965986756",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/RDO RJE SEMS DPA'_WARRIOR OF DIAMOND (VAJRASATTVA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "RGYUD/RDO RJE SEMS DPA'/'GREL PA",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/WARRIOR OF DIAMOND (VAJRASATTVA)/COMMENTARIES",
+            "subject_tibetan": "'GREL PA",
+            "subject_english": "COMMENTARIES"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMABHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/rnam par snang mdzad_appearances (vairochana)/phyag rgya_spiritual gestures and partners (mudra)",
+            "timestamp": "2024-08-20T18:41:45.429706+00:00"
+        },
+        {
+            "path": "rgyud_secret teachings (tantra)/rdo rje sems dpa'_warrior of diamond (vajrasattva)/'grel pa_commentaries",
+            "timestamp": "2024-08-20T18:42:17.173397+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.248070+00:00"
+        }
+    ]
+}

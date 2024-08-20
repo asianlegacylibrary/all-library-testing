@@ -1,0 +1,43 @@
+{
+    "name": "S12219E_ 'PHAGS PA'I GNAS BRTAN BCU DRUG GI RNAM PAR THAR PA_Biographies of the Sixteen Realized Elders_PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737).TXT",
+    "path": "rnam thar_biographies/mtsan thog_by person's name/gnas brtan bcu drug_16 elders",
+    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/gnas brtan bcu drug_16 elders/s12219e_ 'phags pa'i gnas brtan bcu drug gi rnam par thar pa_biographies of the sixteen realized elders_pan chen bla ma sku phreng gnyis pa blo bzang ye shes (1663-1737).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWgQ",
+    "revision_id": "613f666d2099d8d294473",
+    "content_hash": "7ff23c0677f4da2cb27cc5330b59ee19e787da1149120ac06fd7934e5a9c53d7",
+    "server_modified": "2024-03-18T21:54:28",
+    "last_sync": "2024-08-20T11:55:56.371636",
+    "size": 23809,
+    "meta_text": null,
+    "cat_ref": "S12219E",
+    "work_ref": "W.S12219E",
+    "title_tib": "'PHAGS PA'I GNAS BRTAN BCU DRUG GI RNAM PAR THAR PA",
+    "title_eng": "Biographies of the Sixteen Realized Elders",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737)",
+    "subject": [
+        {
+            "_id": "206748164538",
+            "subject_path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/GNAS BRTAN BCU DRUG_16 ELDERS",
+            "subject_path_tibetan": "RNAM THAR/MTSAN THOG/GNAS BRTAN BCU DRUG",
+            "subject_path_english": "BIOGRAPHIES/BY PERSON'S NAME/16 ELDERS",
+            "subject_tibetan": "GNAS BRTAN BCU DRUG",
+            "subject_english": "16 ELDERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rnam thar_biographies/mtsan thog_by person's name/gnas brtan bcu drug_16 elders",
+            "timestamp": "2024-08-20T18:55:56.374039+00:00"
+        }
+    ]
+}

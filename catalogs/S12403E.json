@@ -1,0 +1,55 @@
+{
+    "name": "S12403E_BKA' GDAMS GSAR RNYING GI CHOS 'BYUNG YID KYI MDZES RGYAN_A Lovely Jewel to Adorn the Mind--A Spiritual History of both the Newer and Older Schools of the Kadampa--the Keepers of the Word_PAn CHEN BSOD NAMS GRAGS PA (1478-1554).TXT",
+    "path": "bka' gdams pa_kadampa school",
+    "download_path": "/sungbum updated 4 26 23 bk/bka' gdams pa_kadampa school/s12403e_bka' gdams gsar rnying gi chos 'byung yid kyi mdzes rgyan_a lovely jewel to adorn the mind--a spiritual history of both the newer and older schools of the kadampa--the keepers of the word_pan chen bsod nams grags pa (1478-1554).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAE3w",
+    "revision_id": "613f664484a038d294473",
+    "content_hash": "5ff1ae90f6f85213d94fd65e80e4ebd1e915fa8a66e8b8225ac7f2b776d30fc6",
+    "server_modified": "2024-03-18T21:53:45",
+    "last_sync": "2024-08-20T11:36:28.143513",
+    "size": 309391,
+    "meta_text": null,
+    "cat_ref": "S12403E",
+    "work_ref": "W.S12403E",
+    "title_tib": "BKA' GDAMS GSAR RNYING GI CHOS 'BYUNG YID KYI MDZES RGYAN",
+    "title_eng": "A Lovely Jewel to Adorn the Mind--A Spiritual History of both the Newer and Older Schools of the Kadampa--the Keepers of the Word",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "PAn CHEN BSOD NAMS GRAGS PA (1478-1554)",
+    "subject": [
+        {
+            "_id": "148506208601",
+            "subject_path": "BKA' GDAMS PA_KADAMPA SCHOOL",
+            "subject_path_tibetan": "BKA' GDAMS PA",
+            "subject_path_english": "KADAMPA SCHOOL",
+            "subject_tibetan": "BKA' GDAMS PA",
+            "subject_english": "KADAMPA SCHOOL"
+        },
+        {
+            "_id": "778180846002",
+            "subject_path": "CHOS 'BYUNG_RELIGIOUS HISTORIES/BKA' GDAMS CHOS 'BYUNG_RELIGIOUS HISTORIES OF THE KADAMPA TRADITION",
+            "subject_path_tibetan": "CHOS 'BYUNG/BKA' GDAMS CHOS 'BYUNG",
+            "subject_path_english": "RELIGIOUS HISTORIES/RELIGIOUS HISTORIES OF THE KADAMPA TRADITION",
+            "subject_tibetan": "BKA' GDAMS CHOS 'BYUNG",
+            "subject_english": "RELIGIOUS HISTORIES OF THE KADAMPA TRADITION"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "PAn CHEN BSOD NAMS GRAGS PA (1478-1554)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "bka' gdams pa_kadampa school",
+            "timestamp": "2024-08-20T18:36:28.149596+00:00"
+        },
+        {
+            "path": "chos 'byung_religious histories/bka' gdams chos 'byung_religious histories of the kadampa tradition",
+            "timestamp": "2024-08-20T18:51:15.387239+00:00"
+        }
+    ]
+}

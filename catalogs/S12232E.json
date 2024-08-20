@@ -1,0 +1,59 @@
+{
+    "name": "S12232E_'DOD LHA SNA TSOGS KYI BSTOD TSOGS GSOL 'DEBS KYI SKOR_A Collection of Pieces in Supplication and Praise of a Variety of Gods of Wishes_PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780).TXT",
+    "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)",
+    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)/s12232e_'dod lha sna tsogs kyi bstod tsogs gsol 'debs kyi skor_a collection of pieces in supplication and praise of a variety of gods of wishes_pan chen bla ma sku phreng gsum pa dpal ldan ye shes (1738-1780).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAABzw",
+    "revision_id": "613f663b87d188d294473",
+    "content_hash": "4f02d7f61803ca2be3842a9d70cc8df9a0fcf4f32cac84c89088c14314e33ac5",
+    "server_modified": "2024-03-18T21:53:36",
+    "last_sync": "2024-08-20T11:32:48.208883",
+    "size": 76460,
+    "meta_text": null,
+    "cat_ref": "S12232E",
+    "work_ref": "W.S12232E",
+    "title_tib": "'DOD LHA SNA TSOGS KYI BSTOD TSOGS GSOL 'DEBS KYI SKOR",
+    "title_eng": "A Collection of Pieces in Supplication and Praise of a Variety of Gods of Wishes",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)",
+    "subject": [
+        {
+            "_id": "267750893207",
+            "subject_path": "NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES_PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+            "subject_path_tibetan": "NYAMS LEN/GSOL 'DEBS/PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
+            "subject_path_english": "PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)",
+            "subject_tibetan": "PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES",
+            "subject_english": "PANCHEN LAMA KUTRENG SUMPA PELDEN YESHE (1738-1780)"
+        },
+        {
+            "_id": "331451994124",
+            "subject_path": "BSTOD PA_EULOGIES (STOTRA)/'DOD LHA_ANGELS WHO GRANT WISHES",
+            "subject_path_tibetan": "BSTOD PA/'DOD LHA",
+            "subject_path_english": "EULOGIES (STOTRA)/ANGELS WHO GRANT WISHES",
+            "subject_tibetan": "'DOD LHA",
+            "subject_english": "ANGELS WHO GRANT WISHES"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "PAN CHEN BLA MA SKU PHRENG GSUM PA DPAL LDAN YE SHES (1738-1780)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)",
+            "timestamp": "2024-08-20T18:32:48.213658+00:00"
+        },
+        {
+            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen bla ma sku phreng gsum pa dpal ldan ye shes_panchen lama kutreng sumpa pelden yeshe (1738-1780)",
+            "timestamp": "2024-08-20T18:33:04.168102+00:00"
+        },
+        {
+            "path": "bstod pa_eulogies (stotra)/'dod lha_angels who grant wishes",
+            "timestamp": "2024-08-20T18:36:52.632548+00:00"
+        }
+    ]
+}

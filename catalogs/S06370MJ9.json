@@ -1,0 +1,55 @@
+{
+    "name": "S06370MJ9_MDZOD KYI LUGS LA, RLUNG DKYIL SOGS SKOR GYI DRI LAN_Response to Questions on Subjects such as the Disc of Wind in the System of the Higher-Knowledge School_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370mj9_mdzod kyi lugs la, rlung dkyil sogs skor gyi dri lan_response to questions on subjects such as the disc of wind in the system of the higher-knowledge school_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAUVw",
+    "revision_id": "613f6668765bd8d294473",
+    "content_hash": "8e33fb44e86ae35778620f7c73cf34d838abc683c83950f5acb7a1b86db4ad50",
+    "server_modified": "2024-03-18T21:54:23",
+    "last_sync": "2024-08-20T11:53:44.190535",
+    "size": 1067,
+    "meta_text": null,
+    "cat_ref": "S06370MJ9",
+    "work_ref": "W.S06370MJ9",
+    "title_tib": "MDZOD KYI LUGS LA, RLUNG DKYIL SOGS SKOR GYI DRI LAN",
+    "title_eng": "Response to Questions on Subjects such as the Disc of Wind in the System of the Higher-Knowledge School",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "241902076316",
+            "subject_path": "MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)/MDZOD SPYI_GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)",
+            "subject_path_tibetan": "MNGON PA/DNGUL CHU DHARMA BHADRA/MDZOD SPYI",
+            "subject_path_english": "HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/NGULCHU DHARMA BHADRA (1772-1851)/GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)",
+            "subject_tibetan": "MDZOD SPYI",
+            "subject_english": "GENERAL SUBJECTS OF HIGHER KNOWLEDGE (ABHIDHARMA)"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.375944+00:00"
+        },
+        {
+            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/mdzod spyi_general subjects of higher knowledge (abhidharma)",
+            "timestamp": "2024-08-20T18:56:57.457875+00:00"
+        }
+    ]
+}

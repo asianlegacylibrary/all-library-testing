@@ -1,0 +1,43 @@
+{
+    "name": "SA00950E_RJE BTZUN DKON MCHOG 'JIGS MED DBANG PO'I GSANG BA'I RNAM THAR_The Secret Biography of Jetsun Konchok Jikme Wangpo_GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823).TXT",
+    "path": "rnam thar_biographies/mtsan thog_by person's name/dkon mchog 'jigs med dbang po_konchok jigme wangpo",
+    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/dkon mchog 'jigs med dbang po_konchok jigme wangpo/sa00950e_rje btzun dkon mchog 'jigs med dbang po'i gsang ba'i rnam thar_the secret biography of jetsun konchok jikme wangpo_gung thang dkon mchog bstan pa'i sgron me (1762-1823).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWFQ",
+    "revision_id": "613f666d209318d294473",
+    "content_hash": "af202123bac688e1e0dbad93caed0b5007228cd61290b4c9c32d804aa633954a",
+    "server_modified": "2024-03-18T21:54:28",
+    "last_sync": "2024-08-20T11:55:25.294000",
+    "size": 10638,
+    "meta_text": null,
+    "cat_ref": "SA00950E",
+    "work_ref": "W.SA00950E",
+    "title_tib": "RJE BTZUN DKON MCHOG 'JIGS MED DBANG PO'I GSANG BA'I RNAM THAR",
+    "title_eng": "The Secret Biography of Jetsun Konchok Jikme Wangpo",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)",
+    "subject": [
+        {
+            "_id": "117761993620",
+            "subject_path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/DKON MCHOG 'JIGS MED DBANG PO_KONCHOK JIGME WANGPO",
+            "subject_path_tibetan": "RNAM THAR/MTSAN THOG/DKON MCHOG 'JIGS MED DBANG PO",
+            "subject_path_english": "BIOGRAPHIES/BY PERSON'S NAME/KONCHOK JIGME WANGPO",
+            "subject_tibetan": "DKON MCHOG 'JIGS MED DBANG PO",
+            "subject_english": "KONCHOK JIGME WANGPO"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "GUNG THANG DKON MCHOG BSTAN PA'I SGRON ME (1762-1823)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rnam thar_biographies/mtsan thog_by person's name/dkon mchog 'jigs med dbang po_konchok jigme wangpo",
+            "timestamp": "2024-08-20T18:55:25.296119+00:00"
+        }
+    ]
+}

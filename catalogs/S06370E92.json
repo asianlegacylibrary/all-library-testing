@@ -1,0 +1,55 @@
+{
+    "name": "S06370E92_GNAS BRTAN DUS LDAN GYI PHYAG MTSAN GSER GYI RNA KOR ZHES PA'I BSHAD PA_Clarification of the 'Golden Ring' Accoutrement of the Elder named Kalika_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mtsan_symbolism",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mtsan_symbolism/s06370e92_gnas brtan dus ldan gyi phyag mtsan gser gyi rna kor zhes pa'i bshad pa_clarification of the 'golden ring' accoutrement of the elder named kalika_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPtg",
+    "revision_id": "613f665fcd53b8d294473",
+    "content_hash": "a1d98e5329887e00088f723ac52cce84b19487792a53458795150a2c934a2884",
+    "server_modified": "2024-03-18T21:54:14",
+    "last_sync": "2024-08-20T11:48:44.546529",
+    "size": 360,
+    "meta_text": null,
+    "cat_ref": "S06370E92",
+    "work_ref": "W.S06370E92",
+    "title_tib": "GNAS BRTAN DUS LDAN GYI PHYAG MTSAN GSER GYI RNA KOR ZHES PA'I BSHAD PA",
+    "title_eng": "Clarification of the 'Golden Ring' Accoutrement of the Elder named Kalika",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "534911660164",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/GNAS BRTAN BCU DRUG_SIXTEEN ELDERS/PHYAG MTSAN_SYMBOLISM",
+            "subject_path_tibetan": "RGYUD/GNAS BRTAN BCU DRUG/PHYAG MTSAN",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/SIXTEEN ELDERS/SYMBOLISM",
+            "subject_tibetan": "PHYAG MTSAN",
+            "subject_english": "SYMBOLISM"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/gnas brtan bcu drug_sixteen elders/phyag mtsan_symbolism",
+            "timestamp": "2024-08-20T18:48:44.546911+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.289666+00:00"
+        }
+    ]
+}

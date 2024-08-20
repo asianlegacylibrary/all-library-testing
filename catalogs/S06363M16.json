@@ -1,0 +1,55 @@
+{
+    "name": "S06363M16_BDUD RTZI RIL BU BSGRUB TSUL_Method for Creating Nectar Pills_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)/s06363m16_bdud rtzi ril bu bsgrub tsul_method for creating nectar pills_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAANfQ",
+    "revision_id": "613f6656dee4e8d294473",
+    "content_hash": "3ec25ef220c94376eddbaf6e8be4ebc97f4c1c79b445ceabfaee0b8550a5ed42",
+    "server_modified": "2024-03-18T21:54:04",
+    "last_sync": "2024-08-20T11:46:03.760795",
+    "size": 9676,
+    "meta_text": null,
+    "cat_ref": "S06363M16",
+    "work_ref": "W.S06363M16",
+    "title_tib": "BDUD RTZI RIL BU BSGRUB TSUL",
+    "title_eng": "Method for Creating Nectar Pills",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "971792643187",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BDUD RTZI_NECTAR (AMIRTA)",
+            "subject_path_tibetan": "RGYUD/SPYI/BDUD RTZI",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/NECTAR (AMIRTA)",
+            "subject_tibetan": "BDUD RTZI",
+            "subject_english": "NECTAR (AMIRTA)"
+        },
+        {
+            "_id": "190598817841",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+            "subject_path_tibetan": "RGYUD/SPYI/SDOM PA",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET VOWS (SAMAYA)",
+            "subject_tibetan": "SDOM PA",
+            "subject_english": "SECRET VOWS (SAMAYA)"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bdud rtzi_nectar (amirta)",
+            "timestamp": "2024-08-20T18:46:03.767426+00:00"
+        },
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)",
+            "timestamp": "2024-08-20T18:47:20.981348+00:00"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "S06370E80_DAM CAN BKA' SDOD SDE GSUM SKOR GYI DRI LAN_Responses to Questions about the 'Three Groups of the Dharma Protectors' under Responses to Questions about the 'Three Groups of the Dharma Protectors under Pledge'_DNGUL CHU DHARMA BHADRA (1772-+.TXT",
+    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)/s06370e80_dam can bka' sdod sde gsum skor gyi dri lan_responses to questions about the 'three groups of the dharma protectors' under responses to questions about the 'three groups of the dharma protectors under pledge'_dngul chu dharma bhadra (1772-+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOdQ",
+    "revision_id": "613f665b6108e8d294473",
+    "content_hash": "bd575cf5f3d7401e0682d5597fb29b0d02e2f53a340f40c22d4b7aa8fdcb0480",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-20T11:47:12.577342",
+    "size": 1193,
+    "meta_text": "1851)",
+    "cat_ref": "S06370E80",
+    "work_ref": "W.S06370E80",
+    "title_tib": "DAM CAN BKA' SDOD SDE GSUM SKOR GYI DRI LAN",
+    "title_eng": "Responses to Questions about the 'Three Groups of the Dharma Protectors' under Responses to Questions about the 'Three Groups of the Dharma Protectors under Pledge'",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "168257168792",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
+            "subject_path_tibetan": "RGYUD/SPYI/SNGAGS",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET WORDS (MANTRA)",
+            "subject_tibetan": "SNGAGS",
+            "subject_english": "SECRET WORDS (MANTRA)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)",
+            "timestamp": "2024-08-20T18:47:12.583699+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.259480+00:00"
+        }
+    ]
+}

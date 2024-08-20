@@ -1,0 +1,55 @@
+{
+    "name": "S06370-93E_RGYUD 'DEBS SKABS MTHOR BRTZEGS DANG KHROM TSOGS SU GSAL 'DEBS PA GANG LEGS YIN PA'I SKOR GYI DRI LAN_Response to a Question about Whether, When a Person Recites the Petition to the Lamas of the Lineage, It is Preferable to Visualize The+.TXT",
+    "path": "bla brgyud_lama lineage trees",
+    "download_path": "/sungbum updated 4 26 23 bk/bla brgyud_lama lineage trees/s06370-93e_rgyud 'debs skabs mthor brtzegs dang khrom tsogs su gsal 'debs pa gang legs yin pa'i skor gyi dri lan_response to a question about whether, when a person recites the petition to the lamas of the lineage, it is preferable to visualize the+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAARkg",
+    "revision_id": "613f665fcd7178d294473",
+    "content_hash": "a8699ce688341035d1d3fa8b7b26cc3f0bdde0218cda1835087d1b880e632423",
+    "server_modified": "2024-03-18T21:54:14",
+    "last_sync": "2024-08-20T11:50:55.099854",
+    "size": 780,
+    "meta_text": "m in Tiers or as a General Mass_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "cat_ref": "S06370-93E",
+    "work_ref": "W.S06370-93E",
+    "title_tib": "RGYUD 'DEBS SKABS MTHOR BRTZEGS DANG KHROM TSOGS SU GSAL 'DEBS PA GANG LEGS YIN PA'I SKOR GYI DRI LAN",
+    "title_eng": "Response to a Question about Whether, When a Person Recites the Petition to the Lamas of the Lineage, It is Preferable to Visualize Them in Tiers or as a General Mass",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "669881986105",
+            "subject_path": "BLA BRGYUD_LAMA LINEAGE TREES",
+            "subject_path_tibetan": "BLA BRGYUD",
+            "subject_path_english": "LAMA LINEAGE TREES",
+            "subject_tibetan": "BLA BRGYUD",
+            "subject_english": "LAMA LINEAGE TREES"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "bla brgyud_lama lineage trees",
+            "timestamp": "2024-08-20T18:50:55.112757+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.428986+00:00"
+        }
+    ]
+}

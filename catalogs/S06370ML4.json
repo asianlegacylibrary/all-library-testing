@@ -1,0 +1,55 @@
+{
+    "name": "S06370ML4_DBU MA THAL 'GYUR BAS SO THAR GYI SDOM PA GZUGS CAN DU 'DOD PA'I SKOR GYI DRI LAN_Response to a Question on the Assertion of the Consequence Section of the Middle- Way School that the Vows of Individual Liberation Exist as something Physic +.TXT",
+    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370ml4_dbu ma thal 'gyur bas so thar gyi sdom pa gzugs can du 'dod pa'i skor gyi dri lan_response to a question on the assertion of the consequence section of the middle- way school that the vows of individual liberation exist as something physic +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAADQg",
+    "revision_id": "613f663ffc8358d294473",
+    "content_hash": "36bfb97745da9a89c4e15a8c47e1b3f01a349df0b3cf88fb43775736fab36479",
+    "server_modified": "2024-03-18T21:53:40",
+    "last_sync": "2024-08-20T11:34:42.651200",
+    "size": 558,
+    "meta_text": "al_DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "cat_ref": "S06370ML4",
+    "work_ref": "W.S06370ML4",
+    "title_tib": "DBU MA THAL 'GYUR BAS SO THAR GYI SDOM PA GZUGS CAN DU 'DOD PA'I SKOR GYI DRI LAN",
+    "title_eng": "Response to a Question on the Assertion of the Consequence Section of the Middle- Way School that the Vows of Individual Liberation Exist as something Physical",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "315991748362",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:34:42.662880+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.347994+00:00"
+        }
+    ]
+}

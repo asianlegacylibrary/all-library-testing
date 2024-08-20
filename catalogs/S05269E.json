@@ -1,0 +1,43 @@
+{
+    "name": "S05269E_BLA MA LNGA BCU PA'I RNAM BSHAD_Elucidation of 'The Fifty Verses on Lamas'_RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419).TXT",
+    "path": "rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries/s05269e_bla ma lnga bcu pa'i rnam bshad_elucidation of 'the fifty verses on lamas'_rje tzong kha pa blo bzang grags pa (1357-1419).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAALVg",
+    "revision_id": "613f66527896e8d294473",
+    "content_hash": "d42b711b5c498bcf437f2e1c036e29e3d8bfcc5635e7278a782fdd584d3cc7ee",
+    "server_modified": "2024-03-18T21:54:00",
+    "last_sync": "2024-08-20T11:43:37.417956",
+    "size": 79404,
+    "meta_text": null,
+    "cat_ref": "S05269E",
+    "work_ref": "W.S05269E",
+    "title_tib": "BLA MA LNGA BCU PA'I RNAM BSHAD",
+    "title_eng": "Elucidation of 'The Fifty Verses on Lamas'",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)",
+    "subject": [
+        {
+            "_id": "243670353258",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "RGYUD/BLA MA LNGA BCU PA/'GREL PA",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/50 VERSES ON LAMAS (GURUPANCHASIKA)/COMMENTARIES",
+            "subject_tibetan": "'GREL PA",
+            "subject_english": "COMMENTARIES"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA (1357-1419)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries",
+            "timestamp": "2024-08-20T18:43:37.419251+00:00"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "name": "S12188E_LAM KHRID BRGYUD PA'I GSOL 'DEBS DMIGS SKOR MAN NGAG ZHAL SHES KYIS BRGYAN PA_A Supplication to the Lineage of the Teachers of the Path, Embellished with the Meditative Visualizations; Oral Advices; and Private Instructions_PAN CHEN BLA MA S+.TXT",
+    "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen bla ma sku phreng gnyis pa blo bzang ye shes_panchen lama kutreng nyipa lobsang yeshe  (1663-1737)",
+    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen bla ma sku phreng gnyis pa blo bzang ye shes_panchen lama kutreng nyipa lobsang yeshe  (1663-1737)/s12188e_lam khrid brgyud pa'i gsol 'debs dmigs skor man ngag zhal shes kyis brgyan pa_a supplication to the lineage of the teachers of the path, embellished with the meditative visualizations; oral advices; and private instructions_pan chen bla ma s+.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAABqw",
+    "revision_id": "613f663b87cf48d294473",
+    "content_hash": "4f1354c1e3a4df8dae47151ad44f94edb8bafc83048463323c42c8e6b4fa0525",
+    "server_modified": "2024-03-18T21:53:36",
+    "last_sync": "2024-08-20T11:32:42.870752",
+    "size": 18984,
+    "meta_text": "KU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737)",
+    "cat_ref": "S12188E",
+    "work_ref": "W.S12188E",
+    "title_tib": "LAM KHRID BRGYUD PA'I GSOL 'DEBS DMIGS SKOR MAN NGAG ZHAL SHES KYIS BRGYAN PA",
+    "title_eng": "A Supplication to the Lineage of the Teachers of the Path, Embellished with the Meditative Visualizations; Oral Advices; and Private Instructions",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737)",
+    "subject": [
+        {
+            "_id": "177750154217",
+            "subject_path": "NYAMS LEN_PERSONAL PRACTICE/GSOL 'DEBS_PRAYERS OF SUPPLICATION/PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES_PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)",
+            "subject_path_tibetan": "NYAMS LEN/GSOL 'DEBS/PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
+            "subject_path_english": "PERSONAL PRACTICE/PRAYERS OF SUPPLICATION/PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)",
+            "subject_tibetan": "PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES",
+            "subject_english": "PANCHEN LAMA KUTRENG NYIPA LOBSANG YESHE  (1663-1737)"
+        },
+        {
+            "_id": "669881986105",
+            "subject_path": "BLA BRGYUD_LAMA LINEAGE TREES",
+            "subject_path_tibetan": "BLA BRGYUD",
+            "subject_path_english": "LAMA LINEAGE TREES",
+            "subject_tibetan": "BLA BRGYUD",
+            "subject_english": "LAMA LINEAGE TREES"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "PAN CHEN BLA MA SKU PHRENG GNYIS PA BLO BZANG YE SHES (1663-1737)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen bla ma sku phreng gnyis pa blo bzang ye shes_panchen lama kutreng nyipa lobsang yeshe  (1663-1737)",
+            "timestamp": "2024-08-20T18:32:42.871941+00:00"
+        },
+        {
+            "path": "nyams len_personal practice/gsol 'debs_prayers of supplication/pan chen bla ma sku phreng gnyis pa blo bzang ye shes_panchen lama kutreng nyipa lobsang yeshe  (1663-1737)",
+            "timestamp": "2024-08-20T18:33:04.140086+00:00"
+        },
+        {
+            "path": "bla brgyud_lama lineage trees",
+            "timestamp": "2024-08-20T18:50:55.107026+00:00"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "S06370MR8_RE DOGS 'GOG PA'I GSOL 'DEBS BYA TSUL SOGS KYI DRI LAN SNA TSOGS_Responses to Questions on Subjects such as the Petition for Stopping Groundless Hopes and Fears_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "nyams len_personal practice/spyi_general treatments/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/spyi_general treatments/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370mr8_re dogs 'gog pa'i gsol 'debs bya tsul sogs kyi dri lan sna tsogs_responses to questions on subjects such as the petition for stopping groundless hopes and fears_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAAqQ",
+    "revision_id": "613f663b87bf28d294473",
+    "content_hash": "968642f87ec0952d55aa8ce253a1c10440cbe32c62b00628d4938322f8859b79",
+    "server_modified": "2024-03-18T21:53:36",
+    "last_sync": "2024-08-20T11:31:43.918674",
+    "size": 2436,
+    "meta_text": null,
+    "cat_ref": "S06370MR8",
+    "work_ref": "W.S06370MR8",
+    "title_tib": "RE DOGS 'GOG PA'I GSOL 'DEBS BYA TSUL SOGS KYI DRI LAN SNA TSOGS",
+    "title_eng": "Responses to Questions on Subjects such as the Petition for Stopping Groundless Hopes and Fears",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "103524913543",
+            "subject_path": "NYAMS LEN_PERSONAL PRACTICE/SPYI_GENERAL TREATMENTS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "NYAMS LEN/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "PERSONAL PRACTICE/GENERAL TREATMENTS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "nyams len_personal practice/spyi_general treatments/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:31:43.921239+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.280054+00:00"
+        }
+    ]
+}

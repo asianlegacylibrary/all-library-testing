@@ -1,0 +1,55 @@
+{
+    "name": "S06370EM1_THA MAL GYI GTUM MO DANG 'OD KYI GTUM MO GNYIS KYI SKOR GYI DRI LAN_Response to a Question on the Two Kinds of Inner Fire-- the Ordinary and the Shining_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtum mo_practices for inner fire",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/gtum mo_practices for inner fire/s06370em1_tha mal gyi gtum mo dang 'od kyi gtum mo gnyis kyi skor gyi dri lan_response to a question on the two kinds of inner fire-- the ordinary and the shining_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOcQ",
+    "revision_id": "613f665b6108a8d294473",
+    "content_hash": "f0ddb8ce95affa3c0f190667b6a377f15239b3bdccc5fda2b2ba3d051a8f46fa",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-20T11:47:08.773063",
+    "size": 283,
+    "meta_text": null,
+    "cat_ref": "S06370EM1",
+    "work_ref": "W.S06370EM1",
+    "title_tib": "THA MAL GYI GTUM MO DANG 'OD KYI GTUM MO GNYIS KYI SKOR GYI DRI LAN",
+    "title_eng": "Response to a Question on the Two Kinds of Inner Fire-- the Ordinary and the Shining",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "330919786770",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/GTUM MO_PRACTICES FOR INNER FIRE",
+            "subject_path_tibetan": "RGYUD/SPYI/GTUM MO",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/PRACTICES FOR INNER FIRE",
+            "subject_tibetan": "GTUM MO",
+            "subject_english": "PRACTICES FOR INNER FIRE"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/gtum mo_practices for inner fire",
+            "timestamp": "2024-08-20T18:47:08.773277+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.355213+00:00"
+        }
+    ]
+}

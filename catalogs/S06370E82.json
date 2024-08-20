@@ -1,0 +1,55 @@
+{
+    "name": "S06370E82_SMAN BLA'I CHOG BSGRIGS_A Ritual for the Practice of the Medicine Buddha (Bhaisajyaguru)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/rnal 'byor_practices",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/rnal 'byor_practices/s06370e82_sman bla'i chog bsgrigs_a ritual for the practice of the medicine buddha (bhaisajyaguru)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAALMA",
+    "revision_id": "613f6652789488d294473",
+    "content_hash": "90996adb4b37d4aff7cfd39bc0329d220c3875bb4b1d8a592c758c4433f4f0d8",
+    "server_modified": "2024-03-18T21:54:00",
+    "last_sync": "2024-08-20T11:43:29.304081",
+    "size": 3588,
+    "meta_text": null,
+    "cat_ref": "S06370E82",
+    "work_ref": "W.S06370E82",
+    "title_tib": "SMAN BLA'I CHOG BSGRIGS",
+    "title_eng": "A Ritual for the Practice of the Medicine Buddha (Bhaisajyaguru)",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "156431889492",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SMAN BLA_MEDICINE BUDDHA (BHAISHAJYAGURU)/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "RGYUD/SMAN BLA/RNAL 'BYOR",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/MEDICINE BUDDHA (BHAISHAJYAGURU)/PRACTICES",
+            "subject_tibetan": "RNAL 'BYOR",
+            "subject_english": "PRACTICES"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/sman bla_medicine buddha (bhaishajyaguru)/rnal 'byor_practices",
+            "timestamp": "2024-08-20T18:43:29.307619+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.403109+00:00"
+        }
+    ]
+}

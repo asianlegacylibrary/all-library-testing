@@ -1,0 +1,55 @@
+{
+    "name": "S06370E14_MCHOD RTEN BSHIG 'DRA'I ZHES SOGS KYI NYES PA BSRUNG THABS_Ways of Preventing Oneself from Committing the Bad Deeds which are Known as 'Close to Destroying an Offering Shrine'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)/s06370e14_mchod rten bshig 'dra'i zhes sogs kyi nyes pa bsrung thabs_ways of preventing oneself from committing the bad deeds which are known as 'close to destroying an offering shrine'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOtQ",
+    "revision_id": "613f665b610ce8d294473",
+    "content_hash": "e6bddf5c09399f9253898d8bc0efa6dd33fa7bfd1b3440f7e8f699ed7df0aecb",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-20T11:47:20.976513",
+    "size": 1620,
+    "meta_text": null,
+    "cat_ref": "S06370E14",
+    "work_ref": "W.S06370E14",
+    "title_tib": "MCHOD RTEN BSHIG 'DRA'I ZHES SOGS KYI NYES PA BSRUNG THABS",
+    "title_eng": "Ways of Preventing Oneself from Committing the Bad Deeds which are Known as 'Close to Destroying an Offering Shrine'",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "190598817841",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SDOM PA_SECRET VOWS (SAMAYA)",
+            "subject_path_tibetan": "RGYUD/SPYI/SDOM PA",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET VOWS (SAMAYA)",
+            "subject_tibetan": "SDOM PA",
+            "subject_english": "SECRET VOWS (SAMAYA)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sdom pa_secret vows (samaya)",
+            "timestamp": "2024-08-20T18:47:20.982142+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.427134+00:00"
+        }
+    ]
+}

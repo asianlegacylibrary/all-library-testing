@@ -1,0 +1,55 @@
+{
+    "name": "S06370EC6_BADZRA A'ATMA KA-- SOGS SNGAGS KYI BSHAD PA_Explanation of Mantras such as 'Vadzra Atmaka'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)/s06370ec6_badzra a'atma ka-- sogs sngags kyi bshad pa_explanation of mantras such as 'vadzra atmaka'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOfg",
+    "revision_id": "613f665b610978d294473",
+    "content_hash": "7a90e140c70d30ffecf6219ab0d7e73341e0e23908468c6d23cee397a1162e78",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-20T11:47:12.578051",
+    "size": 392,
+    "meta_text": null,
+    "cat_ref": "S06370EC6",
+    "work_ref": "W.S06370EC6",
+    "title_tib": "BADZRA A'ATMA KA-- SOGS SNGAGS KYI BSHAD PA",
+    "title_eng": "Explanation of Mantras such as 'Vadzra Atmaka'",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+    "subject": [
+        {
+            "_id": "168257168792",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SNGAGS_SECRET WORDS (MANTRA)",
+            "subject_path_tibetan": "RGYUD/SPYI/SNGAGS",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET WORDS (MANTRA)",
+            "subject_tibetan": "SNGAGS",
+            "subject_english": "SECRET WORDS (MANTRA)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sngags_secret words (mantra)",
+            "timestamp": "2024-08-20T18:47:12.586698+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-20T18:53:44.276775+00:00"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "S00079E_'DUS PA'I DMAR KHRID RGYUD DON SNYING PO_The 'Essence of the Meaning of the Secret Books,' being a 'Dissection' Presentation of the Practice of the Secret Collection (Guhyasamaja)_LCANG SKYA NGAG DBANG BLO BZANG CHOD LDAN (1642-1714).TXT",
+    "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rnal 'byor_practices",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rnal 'byor_practices/s00079e_'dus pa'i dmar khrid rgyud don snying po_the 'essence of the meaning of the secret books,' being a 'dissection' presentation of the practice of the secret collection (guhyasamaja)_lcang skya ngag dbang blo bzang chod ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAQtw",
+    "revision_id": "613f665fcd63c8d294473",
+    "content_hash": "2683a89e58e94d8fa5b79c9ea62efa8072d216c77d2e9a5b3d37b4ef29c4525f",
+    "server_modified": "2024-03-18T21:54:14",
+    "last_sync": "2024-08-20T11:49:52.229874",
+    "size": 17703,
+    "meta_text": null,
+    "cat_ref": "S00079E",
+    "work_ref": "W.S00079E",
+    "title_tib": "'DUS PA'I DMAR KHRID RGYUD DON SNYING PO",
+    "title_eng": "The 'Essence of the Meaning of the Secret Books,' being a 'Dissection' Presentation of the Practice of the Secret Collection (Guhyasamaja)",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOD LDAN (1642-1714)",
+    "subject": [
+        {
+            "_id": "226016810958",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/GSANG 'DUS_SECRET COLLECTION (GUHYASAMAJA)/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "RGYUD/GSANG 'DUS/RNAL 'BYOR",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/SECRET COLLECTION (GUHYASAMAJA)/PRACTICES",
+            "subject_tibetan": "RNAL 'BYOR",
+            "subject_english": "PRACTICES"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "LCANG SKYA NGAG DBANG BLO BZANG CHOD LDAN (1642-1714)"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/gsang 'dus_secret collection (guhyasamaja)/rnal 'byor_practices",
+            "timestamp": "2024-08-20T18:49:52.234822+00:00"
+        }
+    ]
+}
