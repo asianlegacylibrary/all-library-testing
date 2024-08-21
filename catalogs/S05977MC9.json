@@ -1,0 +1,57 @@
+{
+    "name": "S05977MC9_ZHI GNAS BSGOM TSUL_Instructions on How to Meditate on Quietude_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
+    "path": "nyams len_personal practice/zhi gnas bsgom tsul_how to meditate on quietude",
+    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/zhi gnas bsgom tsul_how to meditate on quietude/s05977mc9_zhi gnas bsgom tsul_instructions on how to meditate on quietude_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAC4w",
+    "revision_id": "613f663ffc7d68d294473",
+    "content_hash": "246dcbdc5adb0d826e6bf89401e2e48619109f5f87ba5e97b9d18ad19ce8f745",
+    "server_modified": "2024-03-18T21:53:40",
+    "last_sync": "2024-08-20T19:54:53.147297",
+    "size": 6956,
+    "meta_text": null,
+    "cat_ref": "S05977MC9",
+    "work_ref": "W.S05977MC9",
+    "title_tib": "ZHI GNAS BSGOM TSUL",
+    "title_eng": "Instructions on How to Meditate on Quietude",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+    "subject": [
+        {
+            "_id": "360734936251",
+            "subject_path": "NYAMS LEN_PERSONAL PRACTICE/ZHI GNAS BSGOM TSUL_HOW TO MEDITATE ON QUIETUDE",
+            "subject_path_tibetan": "NYAMS LEN/ZHI GNAS BSGOM TSUL",
+            "subject_path_english": "PERSONAL PRACTICE/HOW TO MEDITATE ON QUIETUDE",
+            "subject_tibetan": "ZHI GNAS BSGOM TSUL",
+            "subject_english": "HOW TO MEDITATE ON QUIETUDE"
+        },
+        {
+            "_id": "852870491673",
+            "subject_path": "LAM RIM_STEPS OF THE PATH/ZHI GNAS_QUIETUDE (SHAMATHA)",
+            "subject_path_tibetan": "LAM RIM/ZHI GNAS",
+            "subject_path_english": "STEPS OF THE PATH/QUIETUDE (SHAMATHA)",
+            "subject_tibetan": "ZHI GNAS",
+            "subject_english": "QUIETUDE (SHAMATHA)"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "author_birth": "1565",
+            "author_death": "1662"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "nyams len_personal practice/zhi gnas bsgom tsul_how to meditate on quietude",
+            "timestamp": "2024-08-21T02:54:53.148464+00:00"
+        },
+        {
+            "path": "lam rim_steps of the path/zhi gnas_quietude (shamatha)",
+            "timestamp": "2024-08-21T02:58:42.876368+00:00"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "S06370M21_GZHI GSUM GYIS BSDUS PA'I RNAM DKAR GYI PHUNG PO'I SKOR GYI DRI LAN_Responses to Questions on the 'Pure White Mountain' included in the 'Three Bases'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)/s06370m21_gzhi gsum gyis bsdus pa'i rnam dkar gyi phung po'i skor gyi dri lan_responses to questions on the 'pure white mountain' included in the 'three bases'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAUKg",
+    "revision_id": "613f6668765908d294473",
+    "content_hash": "af215a1e1b833c1f144f2625044892c2a6aa64331b2bc04bfef60ac1d304052a",
+    "server_modified": "2024-03-18T21:54:23",
+    "last_sync": "2024-08-20T20:12:18.449476",
+    "size": 193,
+    "meta_text": null,
+    "cat_ref": "S06370M21",
+    "work_ref": "W.S06370M21",
+    "title_tib": "GZHI GSUM GYIS BSDUS PA'I RNAM DKAR GYI PHUNG PO'I SKOR GYI DRI LAN",
+    "title_eng": "Responses to Questions on the 'Pure White Mountain' included in the 'Three Bases'",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "246073450629",
+            "subject_path": "MNGON PA_HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)/GZHI GSUM_THREE FOUNDATIONS",
+            "subject_path_tibetan": "MNGON PA/DNGUL CHU DHARMA BHADRA/GZHI GSUM",
+            "subject_path_english": "HIGHER KNOWLEDGE (ABHIDHARMA) (VAIBHASHIKA SCHOOL)/NGULCHU DHARMA BHADRA (1772-1851)/THREE FOUNDATIONS",
+            "subject_tibetan": "GZHI GSUM",
+            "subject_english": "THREE FOUNDATIONS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-21T03:12:18.514208+00:00"
+        },
+        {
+            "path": "mngon pa_higher knowledge (abhidharma) (vaibhashika school)/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/gzhi gsum_three foundations",
+            "timestamp": "2024-08-21T03:15:11.041303+00:00"
+        }
+    ]
+}

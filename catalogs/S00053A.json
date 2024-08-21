@@ -1,0 +1,57 @@
+{
+    "name": "S00053A_SPYI BSHAGS_General Confession_@ (@-@).TXT",
+    "path": "nyams len_personal practice/bshags pa_confession/author unknown",
+    "download_path": "/sungbum updated 4 26 23 bk/nyams len_personal practice/bshags pa_confession/author unknown/s00053a_spyi bshags_general confession_@ (@-@).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAA0w",
+    "revision_id": "613f663b87c1c8d294473",
+    "content_hash": "8d2d902c31bdb1fbb32fa534207371678c63fb824ef8b243b17109485a32ced9",
+    "server_modified": "2024-03-18T21:53:36",
+    "last_sync": "2024-08-20T19:52:37.670676",
+    "size": 3044,
+    "meta_text": null,
+    "cat_ref": "S00053A",
+    "work_ref": "W.S00053A",
+    "title_tib": "SPYI BSHAGS",
+    "title_eng": "General Confession",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "@",
+    "subject": [
+        {
+            "_id": "221391830933",
+            "subject_path": "NYAMS LEN_PERSONAL PRACTICE/BSHAGS PA_CONFESSION/AUTHOR UNKNOWN",
+            "subject_path_tibetan": "NYAMS LEN/BSHAGS PA/AUTHOR UNKNOWN",
+            "subject_path_english": "PERSONAL PRACTICE/CONFESSION",
+            "subject_tibetan": "AUTHOR UNKNOWN",
+            "subject_english": "CONFESSION"
+        },
+        {
+            "_id": "333736142126",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI BSHAGS_GENERAL CONFESSION",
+            "subject_path_tibetan": "'DUL BA/SPYI BSHAGS",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL CONFESSION",
+            "subject_tibetan": "SPYI BSHAGS",
+            "subject_english": "GENERAL CONFESSION"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "@",
+            "author_birth": null,
+            "author_death": null
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "nyams len_personal practice/bshags pa_confession/author unknown",
+            "timestamp": "2024-08-21T02:52:37.672127+00:00"
+        },
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi bshags_general confession",
+            "timestamp": "2024-08-21T02:55:31.762960+00:00"
+        }
+    ]
+}

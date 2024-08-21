@@ -1,0 +1,57 @@
+{
+    "name": "S06370E6_RAB GNAS SKOR GYI DRI LAN_Responses to Questions about Consecration Rituals_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)/s06370e6_rab gnas skor gyi dri lan_responses to questions about consecration rituals_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAN6A",
+    "revision_id": "613f665b610018d294473",
+    "content_hash": "b8b74f7555c85d099422cb4d412c71c97c436006df7ab917dc33c386f696db9a",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-20T20:05:49.125890",
+    "size": 3232,
+    "meta_text": null,
+    "cat_ref": "S06370E6",
+    "work_ref": "W.S06370E6",
+    "title_tib": "RAB GNAS SKOR GYI DRI LAN",
+    "title_eng": "Responses to Questions about Consecration Rituals",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "547845006867",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/RAB GNAS_CONSECRATION (SUPRATISHTHA)",
+            "subject_path_tibetan": "RGYUD/SPYI/RAB GNAS",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/CONSECRATION (SUPRATISHTHA)",
+            "subject_tibetan": "RAB GNAS",
+            "subject_english": "CONSECRATION (SUPRATISHTHA)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/rab gnas_consecration (supratishtha)",
+            "timestamp": "2024-08-21T03:05:49.131367+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-21T03:12:18.486279+00:00"
+        }
+    ]
+}

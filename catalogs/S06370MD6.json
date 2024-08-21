@@ -1,0 +1,57 @@
+{
+    "name": "S06370MD6_GTONG SEMS YOD PA TZAM GYIS ZANG ZING GI SBYIN PA'I GO CHOD PA'I SKOR GYI DRI LAN_Response to a Question, which Demonstrates How a Generous State of Mind is By Itself Enough to Constitute the Act of Giving Material Wealth_DNGUL CHU DHARMA +.TXT",
+    "path": "lam rim_steps of the path/dri lan_questions and answers",
+    "download_path": "/sungbum updated 4 26 23 bk/lam rim_steps of the path/dri lan_questions and answers/s06370md6_gtong sems yod pa tzam gyis zang zing gi sbyin pa'i go chod pa'i skor gyi dri lan_response to a question, which demonstrates how a generous state of mind is by itself enough to constitute the act of giving material wealth_dngul chu dharma +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAG-A",
+    "revision_id": "613f66492f1628d294473",
+    "content_hash": "c13565662788b807e818f07e64c2bcc629e072a47893261b176e0206ea996a16",
+    "server_modified": "2024-03-18T21:53:50",
+    "last_sync": "2024-08-20T19:58:49.450318",
+    "size": 261,
+    "meta_text": "BHADRA (1772-1851)",
+    "cat_ref": "S06370MD6",
+    "work_ref": "W.S06370MD6",
+    "title_tib": "GTONG SEMS YOD PA TZAM GYIS ZANG ZING GI SBYIN PA'I GO CHOD PA'I SKOR GYI DRI LAN",
+    "title_eng": "Response to a Question, which Demonstrates How a Generous State of Mind is By Itself Enough to Constitute the Act of Giving Material Wealth",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMABHADRA",
+    "subject": [
+        {
+            "_id": "116361749667",
+            "subject_path": "LAM RIM_STEPS OF THE PATH/DRI LAN_QUESTIONS AND ANSWERS",
+            "subject_path_tibetan": "LAM RIM/DRI LAN",
+            "subject_path_english": "STEPS OF THE PATH/QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DRI LAN",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMABHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "lam rim_steps of the path/dri lan_questions and answers",
+            "timestamp": "2024-08-21T02:58:49.463517+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-21T03:12:18.548053+00:00"
+        }
+    ]
+}

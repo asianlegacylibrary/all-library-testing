@@ -1,0 +1,57 @@
+{
+    "name": "S06370MI0_NYES BYAS LNGA PA'I LHUNG BZED KHAS PHUB PA'I BSHAD PA_Note on the Fifth Infraction, concerning the Sage's Bowl_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370mi0_nyes byas lnga pa'i lhung bzed khas phub pa'i bshad pa_note on the fifth infraction, concerning the sage's bowl_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAADQQ",
+    "revision_id": "613f663ffc8348d294473",
+    "content_hash": "77bbafddc6aec44b51825fc227b5ab48f5a864d426a46028667aa5050b8ebdae",
+    "server_modified": "2024-03-18T21:53:40",
+    "last_sync": "2024-08-20T19:55:16.402444",
+    "size": 133,
+    "meta_text": null,
+    "cat_ref": "S06370MI0",
+    "work_ref": "W.S06370MI0",
+    "title_tib": "NYES BYAS LNGA PA'I LHUNG BZED KHAS PHUB PA'I BSHAD PA",
+    "title_eng": "Note on the Fifth Infraction, concerning the Sage's Bowl",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "315991748362",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-21T02:55:16.417329+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-21T03:12:18.484049+00:00"
+        }
+    ]
+}

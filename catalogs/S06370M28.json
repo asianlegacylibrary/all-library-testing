@@ -1,0 +1,69 @@
+{
+    "name": "S06370M28_DUS TSIGS 'DZIN TSUL SKOR GYI DRI LAN_Response to a Question on the Division of the Seasons_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370m28_dus tsigs 'dzin tsul skor gyi dri lan_response to a question on the division of the seasons_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAADTw",
+    "revision_id": "613f663ffc8428d294473",
+    "content_hash": "105f1092e54a7373977dfb1e62cae511355e0e6746dd0b40797b6fddd8215501",
+    "server_modified": "2024-03-18T21:53:40",
+    "last_sync": "2024-08-20T19:55:16.406573",
+    "size": 525,
+    "meta_text": null,
+    "cat_ref": "S06370M28",
+    "work_ref": "W.S06370M28",
+    "title_tib": "DUS TSIGS 'DZIN TSUL SKOR GYI DRI LAN",
+    "title_eng": "Response to a Question on the Division of the Seasons",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "315991748362",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
+        },
+        {
+            "_id": "258005925918",
+            "subject_path": "LO THO_CALENDRICAL MATERIALS/DUS TSIGS_SEASONS OF THE YEAR",
+            "subject_path_tibetan": "LO THO/DUS TSIGS",
+            "subject_path_english": "CALENDRICAL MATERIALS/SEASONS OF THE YEAR",
+            "subject_tibetan": "DUS TSIGS",
+            "subject_english": "SEASONS OF THE YEAR"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-21T02:55:16.421488+00:00"
+        },
+        {
+            "path": "lo tho_calendrical materials/dus tsigs_seasons of the year",
+            "timestamp": "2024-08-21T02:56:54.288316+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-21T03:12:18.537535+00:00"
+        }
+    ]
+}
