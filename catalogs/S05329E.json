@@ -1,0 +1,45 @@
+{
+    "name": "S05329E_DRIL BU RIM LNGA'I KHRID YIG RJE'I GSUNG BZHIN SEMS DPA' CHEN POS MDZAD PA_A Book of Instruction on the Five Steps of Ghantapada, written by the Great Bodhisattva in accordance with the Teachings of Je Tsongkapa_RJE TZONG KHA PA BLO BZANG GR +.TXT",
+    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rim lnga_five stages (panchakrama)",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rim lnga_five stages (panchakrama)/s05329e_dril bu rim lnga'i khrid yig rje'i gsung bzhin sems dpa' chen pos mdzad pa_a book of instruction on the five steps of ghantapada, written by the great bodhisattva in accordance with the teachings of je tsongkapa_rje tzong kha pa blo bzang gr +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPKg",
+    "revision_id": "613f665b611438d294473",
+    "content_hash": "0b8baae08b2ad40904d45bfa8ed7a1d9cad69e774c2423789b0596c2011cbe73",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-25T13:40:18.876292",
+    "size": 30243,
+    "meta_text": "AGS PA (1357-1419)",
+    "cat_ref": "S05329E",
+    "work_ref": "W.S05329E",
+    "title_tib": "DRIL BU RIM LNGA'I KHRID YIG RJE'I GSUNG BZHIN SEMS DPA' CHEN POS MDZAD PA",
+    "title_eng": "A Book of Instruction on the Five Steps of Ghantapada, written by the Great Bodhisattva in accordance with the Teachings of Je Tsongkapa",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
+    "subject": [
+        {
+            "_id": "277298465202",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/RIM LNGA_FIVE STAGES (PANCHAKRAMA)",
+            "subject_path_tibetan": "RGYUD/BDE MCHOG/RIM LNGA",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/FIVE STAGES (PANCHAKRAMA)",
+            "subject_tibetan": "RIM LNGA",
+            "subject_english": "FIVE STAGES (PANCHAKRAMA)"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "RJE TZONG KHA PA BLO BZANG GRAGS PA",
+            "author_birth": "1357",
+            "author_death": "1419"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/rim lnga_five stages (panchakrama)",
+            "timestamp": "2024-08-25T20:40:18.878163+00:00"
+        }
+    ]
+}
