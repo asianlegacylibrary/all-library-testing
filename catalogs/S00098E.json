@@ -1,0 +1,45 @@
+{
+    "name": "S00098E_GSANG BDE 'JIGS GSUM SOGS KYI BSNYEN YIG_Retreat Instructions for the Secret Collection (Guhyasamaja), Highest Bliss (Sambara), Frightener (Bhairava), and Others_LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN (1642-1714).TXT",
+    "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bsnyen pa_retreat instructions",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bsnyen pa_retreat instructions/s00098e_gsang bde 'jigs gsum sogs kyi bsnyen yig_retreat instructions for the secret collection (guhyasamaja), highest bliss (sambara), frightener (bhairava), and others_lcang skya ngag dbang blo bzang chos ldan (1642-1714).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAPhQ",
+    "revision_id": "613f665b6119e8d294473",
+    "content_hash": "01566c50af2297b99d900e0b3ffe64c328de449b4285809524f03c31e0d834d9",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-25T13:19:06.692446",
+    "size": 3333,
+    "meta_text": null,
+    "cat_ref": "S00098E",
+    "work_ref": "W.S00098E",
+    "title_tib": "GSANG BDE 'JIGS GSUM SOGS KYI BSNYEN YIG",
+    "title_eng": "Retreat Instructions for the Secret Collection (Guhyasamaja), Highest Bliss (Sambara), Frightener (Bhairava), and Others",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
+    "subject": [
+        {
+            "_id": "201198359926",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/BDE MCHOG_HIGHEST BLISS (SANVARA)/BSNYEN PA_RETREAT INSTRUCTIONS",
+            "subject_path_tibetan": "RGYUD/BDE MCHOG/BSNYEN PA",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/HIGHEST BLISS (SANVARA)/RETREAT INSTRUCTIONS",
+            "subject_tibetan": "BSNYEN PA",
+            "subject_english": "RETREAT INSTRUCTIONS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "LCANG SKYA NGAG DBANG BLO BZANG CHOS LDAN",
+            "author_birth": "1642",
+            "author_death": "1714"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/bde mchog_highest bliss (sanvara)/bsnyen pa_retreat instructions",
+            "timestamp": "2024-08-25T20:19:06.696089+00:00"
+        }
+    ]
+}
