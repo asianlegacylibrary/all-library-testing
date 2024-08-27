@@ -1,0 +1,69 @@
+{
+    "name": "S00206I_DGE BSHES SKAL BZANG RNAM RGYAL GYI GSUNG 'DUL BA'I SDOM TSIG DON GSAL SGRON ME DANG, PHA YI SOR MDO'I LTUNG BA SDE LNGA'I SDOM TSIG DANG, RJE BTZUN BLO BZANG CHOS KYI RGYAL MTSAN GYIS MDZAD PA'I DGE SLONG GI BSLAB BYA'I SDOM TSIG BCAS_'A La +.TXT",
+    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/mtsan mi gsal_unknown",
+    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/mtsan mi gsal_unknown/s00206i_dge bshes skal bzang rnam rgyal gyi gsung 'dul ba'i sdom tsig don gsal sgron me dang, pha yi sor mdo'i ltung ba sde lnga'i sdom tsig dang, rje btzun blo bzang chos kyi rgyal mtsan gyis mdzad pa'i dge slong gi bslab bya'i sdom tsig bcas_'a la +.txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAADFA",
+    "revision_id": "613f663ffc8078d294473",
+    "content_hash": "33316af028d5af1cb72dc8d59d2ace5936bf059cb3d65c08ae3ef0d12e45f593",
+    "server_modified": "2024-03-18T21:53:40",
+    "last_sync": "2024-08-26T17:49:08.380926",
+    "size": 132023,
+    "meta_text": "mp which Clarifies the Real Meaning,’ being a Versed Summary on Buddhist Discipline (by Geshe Kelsang Namgyal); along with (2) a Versed Summary on the Five Groups of Downfalls from the Sutra on the Vows of Individual Freedom for Males (by the ‘Spiritual Father’), as well as (3) a Versed Summary on the Rules for a Fully-Ordained Monk_DGE BSHES SKAL BZANG RNAM RGYAL; @; PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662)",
+    "cat_ref": "S00206I",
+    "work_ref": "W.S00206I",
+    "title_tib": "'A La",
+    "title_eng": "mp which Clarifies the Real Meaning,’ being a Versed Summary on Buddhist Discipline (by Geshe Kelsang Namgyal); along with (2) a Versed Summary on the Five Groups of Downfalls from the Sutra on the Vows of Individual Freedom for Males (by the ‘Spiritual Father’), as well as (3) a Versed Summary on the Rules for a Fully-Ordained Monk",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DGE BSHES SKAL BZANG RNAM RGYAL; @; PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+    "subject": [
+        {
+            "_id": "379435931159",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/MTSAN MI GSAL_UNKNOWN",
+            "subject_path_tibetan": "'DUL BA/SPYI/MTSAN MI GSAL",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/UNKNOWN",
+            "subject_tibetan": "MTSAN MI GSAL",
+            "subject_english": "UNKNOWN"
+        },
+        {
+            "_id": "197454211576",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DGE BSHES SKAL BZANG RNAM RGYAL_GESHE KELSANG NAMGYAL",
+            "subject_path_tibetan": "'DUL BA/SPYI/DGE BSHES SKAL BZANG RNAM RGYAL",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/GESHE KELSANG NAMGYAL",
+            "subject_tibetan": "DGE BSHES SKAL BZANG RNAM RGYAL",
+            "subject_english": "GESHE KELSANG NAMGYAL"
+        },
+        {
+            "_id": "121789060535",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN_PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_path_tibetan": "'DUL BA/SPYI/PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)",
+            "subject_tibetan": "PAN CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "subject_english": "PANCHEN LOBSANG CHUKYI GYELTSEN (1565-1662)"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DGE BSHES SKAL BZANG RNAM RGYAL; @; PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "author_birth": "1565",
+            "author_death": "1662"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/mtsan mi gsal_unknown",
+            "timestamp": "2024-08-27T00:49:08.381338+00:00"
+        },
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dge bshes skal bzang rnam rgyal_geshe kelsang namgyal",
+            "timestamp": "2024-08-27T00:49:14.963868+00:00"
+        },
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/pan chen blo bzang chos kyi rgyal mtsan_panchen lobsang chukyi gyeltsen (1565-1662)",
+            "timestamp": "2024-08-27T00:49:29.189629+00:00"
+        }
+    ]
+}

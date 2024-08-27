@@ -1,0 +1,45 @@
+{
+    "name": "S05977M12_SDOM GSUM PHAR PHYIN BRGYUD PA RNAMS KYI GSOL 'DEBS_A Supplication to the Lamas of the Lineage of the Three Types of Vows, in the Tradition of the Perfections_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
+    "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bla brgyud_lineage lamas",
+    "download_path": "/sungbum updated 4 26 23 bk/phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bla brgyud_lineage lamas/s05977m12_sdom gsum phar phyin brgyud pa rnams kyi gsol 'debs_a supplication to the lamas of the lineage of the three types of vows, in the tradition of the perfections_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAU0g",
+    "revision_id": "613f6668766388d294473",
+    "content_hash": "106a8f3a693f6fb604f1b085aee516ffa726d8992acad874804eab3bc61fa5d3",
+    "server_modified": "2024-03-18T21:54:23",
+    "last_sync": "2024-08-26T18:06:19.512600",
+    "size": 2848,
+    "meta_text": null,
+    "cat_ref": "S05977M12",
+    "work_ref": "W.S05977M12",
+    "title_tib": "SDOM GSUM PHAR PHYIN BRGYUD PA RNAMS KYI GSOL 'DEBS",
+    "title_eng": "A Supplication to the Lamas of the Lineage of the Three Types of Vows, in the Tradition of the Perfections",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+    "subject": [
+        {
+            "_id": "213967860426",
+            "subject_path": "PHAR PHYIN_PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/BLA BRGYUD_LINEAGE LAMAS",
+            "subject_path_tibetan": "PHAR PHYIN/BLA BRGYUD",
+            "subject_path_english": "PERFECTION OF WISDOM (PRAJNA PARAMITA) (MADHYAMIKA SVATANTRIKA SCHOOL)/LINEAGE LAMAS",
+            "subject_tibetan": "BLA BRGYUD",
+            "subject_english": "LINEAGE LAMAS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "author_birth": "1565",
+            "author_death": "1662"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "phar phyin_perfection of wisdom (prajna paramita) (madhyamika svatantrika school)/bla brgyud_lineage lamas",
+            "timestamp": "2024-08-27T01:06:19.513345+00:00"
+        }
+    ]
+}

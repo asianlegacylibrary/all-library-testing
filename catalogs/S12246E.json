@@ -1,0 +1,45 @@
+{
+    "name": "S12246E_DUS 'KHOR GYI SMON LAM_A Prayer to be used in the Secret Practice of the Wheel of Time (Kalachakra)_RJE BTZUN BLO BZANG RTA DBYANGS (1867-1937).TXT",
+    "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/smon lam_prayers",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/smon lam_prayers/s12246e_dus 'khor gyi smon lam_a prayer to be used in the secret practice of the wheel of time (kalachakra)_rje btzun blo bzang rta dbyangs (1867-1937).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAIrw",
+    "revision_id": "613f664dc42cb8d294473",
+    "content_hash": "f1cb8cad8d22cb279fa060f7719a7f768e60a04d07d11560a4b60e08d6584e12",
+    "server_modified": "2024-03-18T21:53:55",
+    "last_sync": "2024-08-26T17:54:09.640097",
+    "size": 4466,
+    "meta_text": null,
+    "cat_ref": "S12246E",
+    "work_ref": "W.S12246E",
+    "title_tib": "DUS 'KHOR GYI SMON LAM",
+    "title_eng": "A Prayer to be used in the Secret Practice of the Wheel of Time (Kalachakra)",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "RJE BTZUN BLO BZANG RTA DBYANGS",
+    "subject": [
+        {
+            "_id": "481832453772",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/DUS 'KHOR_WHEEL OF TIME (KALACHAKRA)/SMON LAM_PRAYERS",
+            "subject_path_tibetan": "RGYUD/DUS 'KHOR/SMON LAM",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/WHEEL OF TIME (KALACHAKRA)/PRAYERS",
+            "subject_tibetan": "SMON LAM",
+            "subject_english": "PRAYERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "RJE BTZUN BLO BZANG RTA DBYANGS",
+            "author_birth": "1867",
+            "author_death": "1937"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/dus 'khor_wheel of time (kalachakra)/smon lam_prayers",
+            "timestamp": "2024-08-27T00:54:09.642341+00:00"
+        }
+    ]
+}

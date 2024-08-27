@@ -1,0 +1,57 @@
+{
+    "name": "S06370EB2_DUR KHROD YOD PA RNAMS LA DE'I TZA'I THIG SKOR GYI DRI LAN_Response to a Question on Drawing the Burial Grounds in Mandalas which include Them_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/dkyil 'khor_secret world (mandala)",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/dkyil 'khor_secret world (mandala)/s06370eb2_dur khrod yod pa rnams la de'i tza'i thig skor gyi dri lan_response to a question on drawing the burial grounds in mandalas which include them_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOoA",
+    "revision_id": "613f665b610b98d294473",
+    "content_hash": "eeacfccf0125878147f9f2ebc6c176e59a718d34adfc2332eec6e7ba9eaa7b25",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-26T18:00:18.350637",
+    "size": 497,
+    "meta_text": null,
+    "cat_ref": "S06370EB2",
+    "work_ref": "W.S06370EB2",
+    "title_tib": "DUR KHROD YOD PA RNAMS LA DE'I TZA'I THIG SKOR GYI DRI LAN",
+    "title_eng": "Response to a Question on Drawing the Burial Grounds in Mandalas which include Them",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "268682541166",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/DKYIL 'KHOR_SECRET WORLD (MANDALA)",
+            "subject_path_tibetan": "RGYUD/SPYI/DKYIL 'KHOR",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/SECRET WORLD (MANDALA)",
+            "subject_tibetan": "DKYIL 'KHOR",
+            "subject_english": "SECRET WORLD (MANDALA)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/dkyil 'khor_secret world (mandala)",
+            "timestamp": "2024-08-27T01:00:18.351335+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T01:06:14.068567+00:00"
+        }
+    ]
+}

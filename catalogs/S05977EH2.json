@@ -1,0 +1,45 @@
+{
+    "name": "S05977EH2_SBYIN BDAG CHEN MO LA BSLAB BYA_Advice to a Noble Lady_PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN (1565-1662).TXT",
+    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bsangs chog_ritual of purification",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/bsangs chog_ritual of purification/s05977eh2_sbyin bdag chen mo la bslab bya_advice to a noble lady_pan chen blo bzang chos kyi rgyal mtsan (1565-1662).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOmA",
+    "revision_id": "613f665b610b18d294473",
+    "content_hash": "18b46c60c3641890a099628a38886db88ee176b3281433dad5cfe68bdc13f1d4",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-26T18:00:17.982436",
+    "size": 2514,
+    "meta_text": null,
+    "cat_ref": "S05977EH2",
+    "work_ref": "W.S05977EH2",
+    "title_tib": "SBYIN BDAG CHEN MO LA BSLAB BYA",
+    "title_eng": "Advice to a Noble Lady",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+    "subject": [
+        {
+            "_id": "149441542338",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/BSANGS CHOG_RITUAL OF PURIFICATION",
+            "subject_path_tibetan": "RGYUD/SPYI/BSANGS CHOG",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/RITUAL OF PURIFICATION",
+            "subject_tibetan": "BSANGS CHOG",
+            "subject_english": "RITUAL OF PURIFICATION"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "PAn CHEN BLO BZANG CHOS KYI RGYAL MTSAN",
+            "author_birth": "1565",
+            "author_death": "1662"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/bsangs chog_ritual of purification",
+            "timestamp": "2024-08-27T01:00:17.985820+00:00"
+        }
+    ]
+}

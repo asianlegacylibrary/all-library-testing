@@ -1,0 +1,57 @@
+{
+    "name": "S06370E12_BLA MA LNGA BCU PA'I SKOR GYI DRI LAN_Responses to Questions about the 'Fifty Verses of Lama Devotion'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries/s06370e12_bla ma lnga bcu pa'i skor gyi dri lan_responses to questions about the 'fifty verses of lama devotion'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAALWA",
+    "revision_id": "613f6652789708d294473",
+    "content_hash": "597906ebdd6c9201b2258c7bb51204f5f4ab82a489f99369de1db584b2b50626",
+    "server_modified": "2024-03-18T21:54:00",
+    "last_sync": "2024-08-26T17:57:03.554370",
+    "size": 1243,
+    "meta_text": null,
+    "cat_ref": "S06370E12",
+    "work_ref": "W.S06370E12",
+    "title_tib": "BLA MA LNGA BCU PA'I SKOR GYI DRI LAN",
+    "title_eng": "Responses to Questions about the 'Fifty Verses of Lama Devotion'",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "243670353258",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/BLA MA LNGA BCU PA_50 VERSES ON LAMAS (GURUPANCHASIKA)/'GREL PA_COMMENTARIES",
+            "subject_path_tibetan": "RGYUD/BLA MA LNGA BCU PA/'GREL PA",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/50 VERSES ON LAMAS (GURUPANCHASIKA)/COMMENTARIES",
+            "subject_tibetan": "'GREL PA",
+            "subject_english": "COMMENTARIES"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/bla ma lnga bcu pa_50 verses on lamas (gurupanchasika)/'grel pa_commentaries",
+            "timestamp": "2024-08-27T00:57:03.556858+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T01:06:14.102427+00:00"
+        }
+    ]
+}

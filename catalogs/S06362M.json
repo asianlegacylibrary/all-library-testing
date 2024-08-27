@@ -1,0 +1,45 @@
+{
+    "name": "S06362M_'DUL BA'I SKOR KHA SHAS PHYOGS GCIG TU BSGRIGS PA_Collection of Writings on a Number of Points in the Teachings on Discipline_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06362m_'dul ba'i skor kha shas phyogs gcig tu bsgrigs pa_collection of writings on a number of points in the teachings on discipline_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAADTg",
+    "revision_id": "613f663ffc8418d294473",
+    "content_hash": "cdd63618b378cc44b4bf589511f37747476298bbb3b4cfbcd812a12068d20cad",
+    "server_modified": "2024-03-18T21:53:40",
+    "last_sync": "2024-08-26T17:49:21.101085",
+    "size": 26749,
+    "meta_text": null,
+    "cat_ref": "S06362M",
+    "work_ref": "W.S06362M",
+    "title_tib": "'DUL BA'I SKOR KHA SHAS PHYOGS GCIG TU BSGRIGS PA",
+    "title_eng": "Collection of Writings on a Number of Points in the Teachings on Discipline",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "315991748362",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T00:49:21.109304+00:00"
+        }
+    ]
+}

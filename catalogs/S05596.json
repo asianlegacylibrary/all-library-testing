@@ -1,0 +1,45 @@
+{
+    "name": "S05596_BYANG BA RIG 'DZIN CHEN PO NGAG GI DBANG PO'I RNAM PAR THAR BA NGO MTSAR BKOD PA RGYA MTSO_\"An Ocean of Amazing Expression,\" the Biography of the Great Jangwa Ringdzin Ngaki Wangpo_RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO (1617-1682).TXT",
+    "path": "rnam thar_biographies/mtsan thog_by person's name/byang ba rig 'dzin chen po ngag gi dbang po_jangwa ringdzin chenpo (1580-1639)",
+    "download_path": "/sungbum updated 4 26 23 bk/rnam thar_biographies/mtsan thog_by person's name/byang ba rig 'dzin chen po ngag gi dbang po_jangwa ringdzin chenpo (1580-1639)/s05596_byang ba rig 'dzin chen po ngag gi dbang po'i rnam par thar ba ngo mtsar bkod pa rgya mtso_\"an ocean of amazing expression,\" the biography of the great jangwa ringdzin ngaki wangpo_rgyal ba ngag dbang blo bzang rgya mtso (1617-1682).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAWhQ",
+    "revision_id": "613f666d209a18d294473",
+    "content_hash": "1641812359e4294c6f5146426ad323bde17ca11333fc876ebb2b33250bdb97fb",
+    "server_modified": "2024-03-18T21:54:28",
+    "last_sync": "2024-08-26T18:08:06.663094",
+    "size": 188940,
+    "meta_text": null,
+    "cat_ref": "S05596",
+    "work_ref": "W.S05596",
+    "title_tib": "BYANG BA RIG 'DZIN CHEN PO NGAG GI DBANG PO'I RNAM PAR THAR BA NGO MTSAR BKOD PA RGYA MTSO",
+    "title_eng": "\"An Ocean of Amazing Expression,\" the Biography of the Great Jangwa Ringdzin Ngaki Wangpo",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
+    "subject": [
+        {
+            "_id": "227860315053",
+            "subject_path": "RNAM THAR_BIOGRAPHIES/MTSAN THOG_BY PERSON'S NAME/BYANG BA RIG 'DZIN CHEN PO NGAG GI DBANG PO_JANGWA RINGDZIN CHENPO (1580-1639)",
+            "subject_path_tibetan": "RNAM THAR/MTSAN THOG/BYANG BA RIG 'DZIN CHEN PO NGAG GI DBANG PO",
+            "subject_path_english": "BIOGRAPHIES/BY PERSON'S NAME/JANGWA RINGDZIN CHENPO (1580-1639)",
+            "subject_tibetan": "BYANG BA RIG 'DZIN CHEN PO NGAG GI DBANG PO",
+            "subject_english": "JANGWA RINGDZIN CHENPO (1580-1639)"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "RGYAL BA NGAG DBANG BLO BZANG RGYA MTSO",
+            "author_birth": "1617",
+            "author_death": "1682"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rnam thar_biographies/mtsan thog_by person's name/byang ba rig 'dzin chen po ngag gi dbang po_jangwa ringdzin chenpo (1580-1639)",
+            "timestamp": "2024-08-27T01:08:06.663596+00:00"
+        }
+    ]
+}

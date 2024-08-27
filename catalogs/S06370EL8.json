@@ -1,0 +1,57 @@
+{
+    "name": "S06370EL8_'JIGS GLU'I SKOR LA DRI LAN_Response to a Question on the Song of the Frightener (Bhairava)_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rnal 'byor_practices",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rnal 'byor_practices/s06370el8_'jigs glu'i skor la dri lan_response to a question on the song of the frightener (bhairava)_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAMKg",
+    "revision_id": "613f6656decfb8d294473",
+    "content_hash": "7264b7d84a7e89657bd9deabc59d09bbcf19d44810dfb7dd4b6351a3fd3d578e",
+    "server_modified": "2024-03-18T21:54:04",
+    "last_sync": "2024-08-26T17:57:50.567277",
+    "size": 729,
+    "meta_text": null,
+    "cat_ref": "S06370EL8",
+    "work_ref": "W.S06370EL8",
+    "title_tib": "'JIGS GLU'I SKOR LA DRI LAN",
+    "title_eng": "Response to a Question on the Song of the Frightener (Bhairava)",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "701302368230",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/RNAL 'BYOR_PRACTICES",
+            "subject_path_tibetan": "RGYUD/'JIGS BYED/RNAL 'BYOR",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/PRACTICES",
+            "subject_tibetan": "RNAL 'BYOR",
+            "subject_english": "PRACTICES"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/rnal 'byor_practices",
+            "timestamp": "2024-08-27T00:57:50.570851+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T01:06:14.031254+00:00"
+        }
+    ]
+}

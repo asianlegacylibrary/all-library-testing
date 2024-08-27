@@ -1,0 +1,69 @@
+{
+    "name": "S06370M36_BDEN GNYIS DANG DRANG NGES LA BZHED TSUL SKOR GYI DRI LAN_Response to a Question on How the Concepts of 'Two Truths' and 'Literal versus Figurative' should be Interpreted_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "drang nges_art of interpretation/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/drang nges_art of interpretation/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370m36_bden gnyis dang drang nges la bzhed tsul skor gyi dri lan_response to a question on how the concepts of 'two truths' and 'literal versus figurative' should be interpreted_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAALg",
+    "revision_id": "613f663b87b778d294473",
+    "content_hash": "eec25759cc1aaff67151ba5347c510222d924ddc1366967b2ba2404dcc3689ba",
+    "server_modified": "2024-03-18T21:53:36",
+    "last_sync": "2024-08-26T17:46:06.392052",
+    "size": 450,
+    "meta_text": null,
+    "cat_ref": "S06370M36",
+    "work_ref": "W.S06370M36",
+    "title_tib": "BDEN GNYIS DANG DRANG NGES LA BZHED TSUL SKOR GYI DRI LAN",
+    "title_eng": "Response to a Question on How the Concepts of 'Two Truths' and 'Literal versus Figurative' should be Interpreted",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "842624618016",
+            "subject_path": "DRANG NGES_ART OF INTERPRETATION/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRANG NGES/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "ART OF INTERPRETATION/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
+        },
+        {
+            "_id": "197248893877",
+            "subject_path": "DBU MA_MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DBU MA/DRI LAN/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "MIDDLE-WAY PHILOSOPHY (MADHYAMIKA PRASANGIKA SCHOOL)/QUESTIONS AND ANSWERS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "drang nges_art of interpretation/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T00:46:06.393519+00:00"
+        },
+        {
+            "path": "dbu ma_middle-way philosophy (madhyamika prasangika school)/dri lan_questions and answers/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T00:50:16.476643+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T01:06:14.078602+00:00"
+        }
+    ]
+}

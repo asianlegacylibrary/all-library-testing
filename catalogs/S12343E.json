@@ -1,0 +1,57 @@
+{
+    "name": "S12343E_BOD KYI SMAN RIG BYUNG TSUL MDOR BSDUS_A Brief History of the Art of Medicine in Tibet_DMU DGE BSAM GTAN RGYA MTSO (1914-1993).TXT",
+    "path": "chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)",
+    "download_path": "/sungbum updated 4 26 23 bk/chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)/s12343e_bod kyi sman rig byung tsul mdor bsdus_a brief history of the art of medicine in tibet_dmu dge bsam gtan rgya mtso (1914-1993).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAR7A",
+    "revision_id": "613f66647430f8d294473",
+    "content_hash": "7ec9b651ba6f7649bd8dd4cf96ffd52472f9102d8c29590c4516a26add34c0b1",
+    "server_modified": "2024-03-18T21:54:19",
+    "last_sync": "2024-08-26T18:03:57.072597",
+    "size": 12123,
+    "meta_text": null,
+    "cat_ref": "S12343E",
+    "work_ref": "W.S12343E",
+    "title_tib": "BOD KYI SMAN RIG BYUNG TSUL MDOR BSDUS",
+    "title_eng": "A Brief History of the Art of Medicine in Tibet",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DMU DGE BSAM GTAN RGYA MTSO",
+    "subject": [
+        {
+            "_id": "148335911656",
+            "subject_path": "CHOS 'BYUNG_RELIGIOUS HISTORIES/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG_RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
+            "subject_path_tibetan": "CHOS 'BYUNG/DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG",
+            "subject_path_english": "RELIGIOUS HISTORIES/RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)",
+            "subject_tibetan": "DMU DGE BSAM GTAN RGYA MTSO'I CHOS 'BYUNG",
+            "subject_english": "RELIGIOUS HISTORIES BY MUGE SAMTEN GYATSO (1914-1993)"
+        },
+        {
+            "_id": "235609433762",
+            "subject_path": "SMAN_MEDICINE/SMAN RIG BYUNG TSUL_HISTORY OF MEDICINE",
+            "subject_path_tibetan": "SMAN/SMAN RIG BYUNG TSUL",
+            "subject_path_english": "MEDICINE/HISTORY OF MEDICINE",
+            "subject_tibetan": "SMAN RIG BYUNG TSUL",
+            "subject_english": "HISTORY OF MEDICINE"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DMU DGE BSAM GTAN RGYA MTSO",
+            "author_birth": "1914",
+            "author_death": "1993"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "chos 'byung_religious histories/dmu dge bsam gtan rgya mtso'i chos 'byung_religious histories by muge samten gyatso (1914-1993)",
+            "timestamp": "2024-08-27T01:03:57.076032+00:00"
+        },
+        {
+            "path": "sman_medicine/sman rig byung tsul_history of medicine",
+            "timestamp": "2024-08-27T01:08:49.745657+00:00"
+        }
+    ]
+}

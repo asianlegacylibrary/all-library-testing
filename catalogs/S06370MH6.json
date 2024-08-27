@@ -1,0 +1,57 @@
+{
+    "name": "S06370MH6_SRO KHANG BSTEN PA ZHES PA'I DON GYI BSHAD PA_Explanation of the Meaning of the Expression, 'Employing a Steam-House'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370mh6_sro khang bsten pa zhes pa'i don gyi bshad pa_explanation of the meaning of the expression, 'employing a steam-house'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAADMw",
+    "revision_id": "613f663ffc8268d294473",
+    "content_hash": "151100c3b1853a7bb1faa1dbcb6e8c7aaa32eb371aab15dab1b0a111616701d2",
+    "server_modified": "2024-03-18T21:53:40",
+    "last_sync": "2024-08-26T17:49:21.099293",
+    "size": 206,
+    "meta_text": null,
+    "cat_ref": "S06370MH6",
+    "work_ref": "W.S06370MH6",
+    "title_tib": "SRO KHANG BSTEN PA ZHES PA'I DON GYI BSHAD PA",
+    "title_eng": "Explanation of the Meaning of the Expression, 'Employing a Steam-House'",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "315991748362",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T00:49:21.102773+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T01:06:14.117737+00:00"
+        }
+    ]
+}

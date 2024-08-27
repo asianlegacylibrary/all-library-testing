@@ -1,0 +1,57 @@
+{
+    "name": "S06370MP8_DBYAR PHYI MA KHAS LEN SKOR GYI DRI LAN_Response to a Question on the Monastic Practice of Agreeing to Remain in a Later Summer Retreat_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+    "download_path": "/sungbum updated 4 26 23 bk/'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)/s06370mp8_dbyar phyi ma khas len skor gyi dri lan_response to a question on the monastic practice of agreeing to remain in a later summer retreat_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAADOA",
+    "revision_id": "613f663ffc82b8d294473",
+    "content_hash": "3473bcde53476bce2c20f1e146b00b9d8399049a9d3d93ed3f35767b5fdf990c",
+    "server_modified": "2024-03-18T21:53:40",
+    "last_sync": "2024-08-26T17:49:21.099643",
+    "size": 258,
+    "meta_text": null,
+    "cat_ref": "S06370MP8",
+    "work_ref": "W.S06370MP8",
+    "title_tib": "DBYAR PHYI MA KHAS LEN SKOR GYI DRI LAN",
+    "title_eng": "Response to a Question on the Monastic Practice of Agreeing to Remain in a Later Summer Retreat",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "315991748362",
+            "subject_path": "'DUL BA_VOWED MORALITY (VINAYA)/SPYI_GENERAL PRESENTATIONS/DNGUL CHU DHARMA BHADRA_NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "'DUL BA/SPYI/DNGUL CHU DHARMA BHADRA",
+            "subject_path_english": "VOWED MORALITY (VINAYA)/GENERAL PRESENTATIONS/NGULCHU DHARMA BHADRA (1772-1851)",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA",
+            "subject_english": "NGULCHU DHARMA BHADRA (1772-1851)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "'dul ba_vowed morality (vinaya)/spyi_general presentations/dngul chu dharma bhadra_ngulchu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T00:49:21.104204+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T01:06:14.125708+00:00"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "S06370E17_'JIGS BYED BDAG 'JUG , CHA GSUM GYI GTOR 'BUL SKOR GYI DRI LAN_Responses to Questions on Self-Entry into the World of the Frightener (Bhairava), and the Torma-Cake Offering in Three Parts_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bdag 'jug_self initiation",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bdag 'jug_self initiation/s06370e17_'jigs byed bdag 'jug , cha gsum gyi gtor 'bul skor gyi dri lan_responses to questions on self-entry into the world of the frightener (bhairava), and the torma-cake offering in three parts_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAM1Q",
+    "revision_id": "613f6656deda68d294473",
+    "content_hash": "600630a5139b8a1dd3a2331bfb7e2c5845b5ed2ef54fc1c567c4e857ac52943c",
+    "server_modified": "2024-03-18T21:54:04",
+    "last_sync": "2024-08-26T17:58:40.217667",
+    "size": 1807,
+    "meta_text": null,
+    "cat_ref": "S06370E17",
+    "work_ref": "W.S06370E17",
+    "title_tib": "'JIGS BYED BDAG 'JUG , CHA GSUM GYI GTOR 'BUL SKOR GYI DRI LAN",
+    "title_eng": "Responses to Questions on Self-Entry into the World of the Frightener (Bhairava), and the Torma-Cake Offering in Three Parts",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "334159216213",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/'JIGS BYED_FRIGHTENER (BHAIRAVA)/BDAG 'JUG_SELF INITIATION",
+            "subject_path_tibetan": "RGYUD/'JIGS BYED/BDAG 'JUG",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/FRIGHTENER (BHAIRAVA)/SELF INITIATION",
+            "subject_tibetan": "BDAG 'JUG",
+            "subject_english": "SELF INITIATION"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/'jigs byed_frightener (bhairava)/bdag 'jug_self initiation",
+            "timestamp": "2024-08-27T00:58:40.219667+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T01:06:14.107502+00:00"
+        }
+    ]
+}

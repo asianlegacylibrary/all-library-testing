@@ -1,0 +1,57 @@
+{
+    "name": "S06370E58_'O THUG SKOR GYI DRI LAN_Response to Questions on the Practice of 'Porridge of Milk'_DNGUL CHU DHARMA BHADRA (1772-1851).TXT",
+    "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sbyin sreg_fire offering (homa)",
+    "download_path": "/sungbum updated 4 26 23 bk/rgyud_secret teachings (tantra)/spyi_general treatments/sbyin sreg_fire offering (homa)/s06370e58_'o thug skor gyi dri lan_response to questions on the practice of 'porridge of milk'_dngul chu dharma bhadra (1772-1851).txt",
+    "file_id": "id:Ct2f7NF5r8EAAAAAAAAOCA",
+    "revision_id": "613f665b610218d294473",
+    "content_hash": "e29534bb740dcd5259059339e418d84e09a9d51398cfd188c868c94d3a5779a3",
+    "server_modified": "2024-03-18T21:54:09",
+    "last_sync": "2024-08-26T17:59:47.526100",
+    "size": 1160,
+    "meta_text": null,
+    "cat_ref": "S06370E58",
+    "work_ref": "W.S06370E58",
+    "title_tib": "'O THUG SKOR GYI DRI LAN",
+    "title_eng": "Response to Questions on the Practice of 'Porridge of Milk'",
+    "source": "Asian Classics Input Project",
+    "collection": "Sungbum",
+    "language": "bo",
+    "author_simple": "DNGUL CHU DHARMA BHADRA",
+    "subject": [
+        {
+            "_id": "204587035169",
+            "subject_path": "RGYUD_SECRET TEACHINGS (TANTRA)/SPYI_GENERAL TREATMENTS/SBYIN SREG_FIRE OFFERING (HOMA)",
+            "subject_path_tibetan": "RGYUD/SPYI/SBYIN SREG",
+            "subject_path_english": "SECRET TEACHINGS (TANTRA)/GENERAL TREATMENTS/FIRE OFFERING (HOMA)",
+            "subject_tibetan": "SBYIN SREG",
+            "subject_english": "FIRE OFFERING (HOMA)"
+        },
+        {
+            "_id": "138939827803",
+            "subject_path": "DRI LAN_QUESTIONS AND ANSWERS/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_tibetan": "DRI LAN/DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_path_english": "QUESTIONS AND ANSWERS",
+            "subject_tibetan": "DNGUL CHU DHARMA BHADRA (1772-1851)",
+            "subject_english": "QUESTIONS AND ANSWERS"
+        }
+    ],
+    "items": [],
+    "author": [
+        {
+            "author_name": "DNGUL CHU DHARMA BHADRA",
+            "author_birth": "1772",
+            "author_death": "1851"
+        }
+    ],
+    "updated": true,
+    "path_history": [
+        {
+            "path": "rgyud_secret teachings (tantra)/spyi_general treatments/sbyin sreg_fire offering (homa)",
+            "timestamp": "2024-08-27T00:59:47.527699+00:00"
+        },
+        {
+            "path": "dri lan_questions and answers/dngul chu dharma bhadra (1772-1851)",
+            "timestamp": "2024-08-27T01:06:14.111892+00:00"
+        }
+    ]
+}
